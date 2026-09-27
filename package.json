@@ -1,0 +1,23 @@
+{
+  "name": "create",
+  "version": "1.0.0",
+  "type": "module",
+  "createConfig": {
+    "defaultTemplate": "vp-ts",
+    "templates": [
+      {
+        "name": "vp-ts",
+        "template": "./templates/vp-ts"
+      }
+    ]
+  },
+  "create": {
+    "defaultTemplate": "vp-ts",
+    "templates": [
+      {
+        "name": "vp-ts",
+        "template": "./templates/vp-ts"
+      }
+    ]
+  }
+}
